@@ -8,9 +8,9 @@ I graduated in Digital Gaming Technology and now I am a student at ecolé 42 Sã
 ![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=natflausino&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natflausino&layout=compact&theme=midnight-purple)
 
-<!--![nbarreir's 42 stats](https://badge42.herokuapp.com/api/stats/nbarreir?privacyEmail=true)-->
+![nbarreir's 42 stats](https://badge42.herokuapp.com/api/stats/nbarreir?privacyEmail=true)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/natasha-flausino-07897a147/) <!--[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nbflausino/)-->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/natasha-flausino-07897a147/) 
 <!--
 **natflausino/natflausino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
