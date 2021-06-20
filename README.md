@@ -1,5 +1,4 @@
-<!--
-![](./study_resources/mario_cub.jpg) -->
+![](./computer_gif.gif)
 ### Hi 👋, my name is ✨ Natasha ✨
 
 I graduated in Digital Gaming Technology and now I am a student at ecolé 42 São Paulo
