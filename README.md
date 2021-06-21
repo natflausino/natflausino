@@ -9,8 +9,7 @@ I graduated in Digital Gaming Technology and now I am a student at école 42 Sã
 ![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=natflausino&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natflausino&layout=compact&theme=midnight-purple)
 
-![nbarreir's 42 stats](https://badge42.herokuapp.com/api/stats/nbarreir?cursus=42cursus?privacyEmail=true)
-
+![nbarreir's 42 stats](https://badge42.herokuapp.com/api/stats/nbarreir?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/natasha-flausino-07897a147/) 
 <!--
