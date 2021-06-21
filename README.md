@@ -1,7 +1,7 @@
 ![](./cyperpunk.gif)
 ### Hi 👋, my name is ✨ Natasha ✨
 
-I graduated in Digital Gaming Technology and now I am a student at ecolé 42 São Paulo
+I graduated in Digital Gaming Technology and now I am a student at école 42 São Paulo
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
