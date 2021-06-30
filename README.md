@@ -1,11 +1,11 @@
 ![](./cyperpunk.gif)
 # Hi 👋, my name is ✨ Natasha ✨
 
-I graduated in Digital Gaming Technology and now I am a student Software Engineering as a cadet at [école 42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
-- 🖥 I’m currently working on the Born2BeRoot, a project what I will create my first machine in VirtualBox;
-- 💖 My favorite project is the [Cub3D](https://github.com/natflausino/cub3D), raycaster with miniLibX programm project;
-- 📚 I’m currently learning C and Shell. And I started learning a little about HTML, CSS and JavaScript.
-- 🎮 I love play games, read books nnd I created some games. You can see and play them [here](https://natflausino.itch.io)
+I'm graduated in Digital Gaming Technology and now I am a Software Engineering student at [école 42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
+- 🖥 I’m currently working on the Born2BeRoot, a project in which I will create my first machine in VirtualBox;
+- 💖 My favorite project is [Cub3D](https://github.com/natflausino/cub3D), raycaster with miniLibX programm project;
+- 📚 I’m currently learning C and Shell, and I started learning a little about HTML, CSS and JavaScript.
+- 🎮 I love play games, read books and I have created some games. You can see and play them [here](https://natflausino.itch.io)
 
 ![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=natflausino&theme=midnight-purple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natflausino&layout=compact&theme=midnight-purple)
