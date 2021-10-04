@@ -2,7 +2,7 @@
 # Hi 👋, my name is ✨ Natasha ✨
 
 I'm graduated in Digital Gaming Technology and now I am a Software Engineering student at [école 42](https://www.42.fr) [São Paulo](https://www.42sp.org.br)
-- 🖥 I’m currently working on the Push_Swap, a project I should do a sorting algorithm using only two stacks;
+- 🖥 I’m currently working on the Push_Swap, a project I should create a simple shell... Yes, my little bash;
 - 💖 My favorite project is [Cub3D](https://github.com/natflausino/cub3D), raycaster with miniLibX programm project;
 - 📚 I’m currently learning C, C# and Shell, and I started learning a little about HTML, React, CSS and JavaScript.
 - 🎮 I love play games, read books and I have created some games. You can see and play them [here](https://natflausino.itch.io)
