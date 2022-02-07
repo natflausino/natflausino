@@ -13,6 +13,7 @@ I'm graduated in Digital Gaming Technology and now I am a Software Engineering s
 ---
 ## 💻 42 Projects 💻
 ![](./icons/phase_onee.png)
+![](./icons/phase_twoe.png)
 
 ![](./icons/libfte.png)
 ![](./icons/get_next_linem.png)
