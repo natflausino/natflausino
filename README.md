@@ -23,6 +23,7 @@ I'm graduated in Digital Gaming Technology and now I am a Software Engineering s
 ![](./icons/minitalkm.png)
 ![](./icons/push_swape.png)
 ![](./icons/minishellm.png)
+![](./icons/philosopherse.png)
 
 
 ![nbarreir's 42 stats](https://badge42.herokuapp.com/api/stats/nbarreir?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
