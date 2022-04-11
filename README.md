@@ -27,7 +27,7 @@ I'm graduated in Digital Gaming Technology and now I am a Software Engineering s
 ![](./icons/philosopherse.png)
 
 
-![nbarreir's 42 stats](https://badge42.herokuapp.com/api/stats/nbarreir?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)
+<!--![nbarreir's 42 stats](https://badge42.herokuapp.com/api/stats/nbarreir?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus)-->
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://https://www.linkedin.com/in/natasha-flausino-07897a147/)
