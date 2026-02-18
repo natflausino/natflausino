@@ -1,13 +1,49 @@
 ![](./cyperpunk.gif)
-# Hi 👋, my name is ✨ Natasha ✨
+# Hi, I'm Natasha Flausino  
 
-I'm a Software Engineering, graduated in Digital Gaming Technology and studied at [école 42](https://www.42.fr) [São Paulo](https://www.42sp.org.br).
-- 💖 My favorite project is [Cub3D](https://github.com/natflausino/cub3D), raycaster with miniLibX programm project;
-- 📚 I’m currently learning Python, HTML, JavaScript, CSS C, C# and Shell, and I started learning a little about React, Angular and Docker.
-- 🎮 I love play games, read books and I have created some games. You can see and play them [here](https://natflausino.itch.io)
+**Software Engineer | Game Developer | Backend Enthusiast**
 
-![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=natflausino&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natflausino&layout=compact&theme=midnight-purple)
+I'm a **Software Engineer** with a background in **Digital Game Development**, graduated in Digital Gaming Technology and trained at **Computer Science** from École 42 São Paulo (42SP).
+I have experience building backend systems, game engines, and technical solutions with a strong focus on problem-solving and clean code.
+
+---
+
+## About Me
+
+- 💻 Software Engineer with experience in **backend development and game programming**
+- 🎮 Passionate about **game engines, raycasting, and low-level graphics**
+- 📈 Constantly learning and improving my skills in modern technologies
+- 🌎 Bilingual: **Portuguese & English**
+
+---
+
+## 🧠 Tech Stack & Learning
+
+**Main Languages & Tools**
+- 🐍 Python  
+- 💻 C | C#  
+- 🌐 HTML | CSS | JavaScript  
+- 🐚 Shell Script  
+
+**Currently Exploring**
+- 📊 Data Science at FIAP (Faculdade de Informática e Administração Paulista)
+- ⚛️ React
+- 🅰️ Angular
+- 🐳 Docker
+
+---
+
+## ⭐ Featured Project
+
+- 💖 **[Cub3D](https://github.com/natflausino/cub3D)**  
+  A **raycaster engine** inspired by Wolfenstein 3D, built in C using **MiniLibX**, focusing on graphics rendering, math, and performance optimization.
+
+---
+
+## 🎮 Games & Creative Projects
+
+I also love creating games!  
+You can **play my projects here** 👉 [<img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"/>](https://natflausino.itch.io)
 
 ---
 ## 💻 42 Projects 💻
